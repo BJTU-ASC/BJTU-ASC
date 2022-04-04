@@ -45,7 +45,7 @@
 
 * [Java教程](https://github.com/BJTU-ASC/Java-tutorial)
 * Python教程
-* [ALU仿真]()
+* [ALU仿真](https://github.com/BJTU-ASC/ALU_Simulation)
 
 ## 更新日志
 
@@ -55,7 +55,7 @@
 
 **`2022.04.04`**: 创建项目 Python-tutorial @20722010
 
-**`2022.04.04`**: 创建项目 ALU_stimulation @20722010
+**`2022.04.04`**: 创建项目 ALU_simulation @20722010
 
 
 ## 联系我们
