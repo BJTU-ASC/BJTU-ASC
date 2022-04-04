@@ -45,12 +45,17 @@
 
 * [Java教程](https://github.com/BJTU-ASC/Java-tutorial)
 * Python教程
+* [ALU仿真]()
 
 ## 更新日志
 
 **`2022.04.03`**: 创建ASC GitHub账号 @21722070
 
 **`2022.04.03`**: 创建项目 Java-tutorial @21722070
+
+**`2022.04.04`**: 创建项目 Python-tutorial @20722010
+
+**`2022.04.04`**: 创建项目 ALU_stimulation @20722010
 
 
 ## 联系我们
