@@ -43,7 +43,7 @@
 
 ## 目录
 
-* [Java教程]()
+* [Java教程](https://github.com/BJTU-ASC/Java-tutorial)
 * Python教程
 
 ## 更新日志
