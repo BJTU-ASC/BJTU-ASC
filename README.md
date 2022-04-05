@@ -46,6 +46,7 @@
 * [Java教程](https://github.com/BJTU-ASC/Java-tutorial)
 * [Python教程](https://github.com/BJTU-ASC/Python-tutorial)
 * [ALU仿真](https://github.com/BJTU-ASC/ALU_Simulation)
+* [纸张校正](https://github.com/BJTU-ASC/ALU_Simulation)
 
 ## 更新日志
 
