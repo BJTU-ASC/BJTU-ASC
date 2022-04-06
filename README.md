@@ -50,15 +50,15 @@
 
 ## 更新日志
 
-**`2022.04.03`**: 创建ASC GitHub账号 @杨柏翰
+**`2022.04.03`**: 创建ASC GitHub账号 @yangbaihan
 
-**`2022.04.03`**: 创建项目 Java-tutorial @杨柏翰
+**`2022.04.03`**: 创建项目 Java-tutorial @yangbaihan
 
-**`2022.04.04`**: 创建项目 Python-tutorial @蒋瀚祺
+**`2022.04.04`**: 创建项目 Python-tutorial @jianghanqi
 
-**`2022.04.04`**: 创建项目 ALU_simulation @蒋瀚祺
+**`2022.04.04`**: 创建项目 ALU_simulation @jianghanqi
 
-**`2022.04.05`**: 创建项目 Paper-calibration @蒋瀚祺
+**`2022.04.05`**: 创建项目 Paper-calibration @jianghanqi
 
 
 ## 联系我们
