@@ -47,6 +47,7 @@
 * [Python教程](https://github.com/BJTU-ASC/Python-tutorial)
 * [ALU仿真](https://github.com/BJTU-ASC/ALU_Simulation)
 * [纸张校正](https://github.com/BJTU-ASC/Paper-calibration)
+* [信息系统](https://github.com/BJTU-ASC/Information-system)
 
 ## 更新日志
 
